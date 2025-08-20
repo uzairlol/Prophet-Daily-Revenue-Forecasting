@@ -16,8 +16,8 @@ This repository contains a Jupyter notebook (`forecasting_notebook.ipynb`) that 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/uzairlol/prophet-forecasting.git
-   cd prophet-forecasting
+   git clone https://github.com/uzairlol/prophet-daily-revenue-forecasting.git
+   cd prophet-daily-revenue-forecasting
    ```
 2. Install dependencies from `requirements.txt`:
    ```bash
